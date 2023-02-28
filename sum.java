@@ -10,6 +10,6 @@ x = sc.nextInt();
 System.out.print("Enter the second number: ");  
 y = sc.nextInt();  
 sum = sum(x, y);  
-System.out.println("The sum of two numbers x and y is: " + s);
+System.out.println("The sum of two numbers x and y is: " + sum);
 }
 }
